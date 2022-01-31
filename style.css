@@ -83,3 +83,20 @@ input{
     position: relative;
     left: -150px;
 }
+
+/* .main-input, .main-btn{
+    display: none;
+} */
+
+.main-input{
+    background-color: darkcyan;
+    color: whitesmoke;
+
+}
+
+.main-btn{
+    width: 100px;
+    height: 30px;
+    background-color: yellow;
+    color: wheat;
+}
